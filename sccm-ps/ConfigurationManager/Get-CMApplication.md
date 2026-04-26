@@ -210,11 +210,13 @@ This cmdlet supports the common parameters: -Debug, -ErrorAction, -ErrorVariable
 ## INPUTS
 
 ### Microsoft.ConfigurationManagement.ManagementProvider.IResultObject
+
 ## OUTPUTS
 
-### IResultObject[]#SMS_ApplicationLatest
-### IResultObject#SMS_ApplicationLatest
-### IResultObject#SMS_Application
+### IResultObject\[]\#SMS_ApplicationLatest
+### IResultObject\#SMS_ApplicationLatest
+### IResultObject\#SMS_Application
+
 ## NOTES
 
 For more information on these return object and their properties, see the following articles:
